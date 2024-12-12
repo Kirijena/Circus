@@ -14,16 +14,16 @@ public class CursorScript : MonoBehaviour
     }
 
     // Update is called once per frame
-    void DefaultCursor()
+    public void DefaultCursor()
     {
         Cursor.SetCursor(cursors[0], Vector2.zero, CursorMode.ForceSoftware);
     }
-    void OnButton()
+    public void OnButton()
     {
         Cursor.SetCursor(cursors[1], Vector2.zero, CursorMode.ForceSoftware);
     }
 
-    void ButtonClicked()
+    public void ButtonClicked()
     {
         Cursor.SetCursor(cursors[2], Vector2.zero, CursorMode.ForceSoftware);
     }
