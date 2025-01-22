@@ -1,11 +1,10 @@
-# Circus
-Unity 2.5D Circus game progekt
-
+# Circus_Kronbergs
+Unity 2.5D Circus game project
 ### To do list:
-- [ ] Create main menue
-- [ ] Change cursor 
+- [ ] Create main menu
+- [x] Change cursor
 - [ ] Add animations to dice and clouds
-- [ ] Add sounds an music 
-- [ ] Create character selection screen
-- [ ] Create aetting menue 
-- [ ] Create second  
+- [ ] Add sounds and music
+- [ ] Create settings menu
+- [ ] Create second scene
+...
