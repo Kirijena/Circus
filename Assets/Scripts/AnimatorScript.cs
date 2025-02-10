@@ -12,11 +12,11 @@ public class AnimatorScript : MonoBehaviour
 
     public void RollDice()
     {
-        animator.SetBool("IsRolling", true);
+        animator.SetBool("IsRoll", true);
     }
 
     public void StopRoll()
     {
-        animator.SetBool("IsRolling", false);
+        animator.SetBool("IsRoll", false);
     }
 }

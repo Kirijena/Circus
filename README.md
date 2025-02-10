@@ -5,6 +5,7 @@ Unity 2.5D Circus game project
 - [x] Change cursor
 - [x] Add animations to dice and clouds
 - [x] Add sounds and music
+- [x] Create character selection screen
 - [ ] Create settings menu
 - [ ] Create second scene
 ...
