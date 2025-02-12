@@ -5,6 +5,7 @@ using UnityEngine;
 public class AnimatorScript : MonoBehaviour
 {
     Animator animator;
+
     void Start()
     {
         animator = GetComponent<Animator>();
@@ -12,11 +13,11 @@ public class AnimatorScript : MonoBehaviour
 
     public void RollDice()
     {
-        animator.SetBool("IsRoll", true);
+        animator.SetBool("isRolling", true);
     }
 
     public void StopRoll()
     {
-        animator.SetBool("IsRoll", false);
+        animator.SetBool("isRolling", false);
     }
 }

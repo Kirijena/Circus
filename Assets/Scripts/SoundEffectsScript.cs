@@ -7,12 +7,12 @@ public class SoundEffectsScript : MonoBehaviour
     public AudioClip[] soundEffects;
     public AudioSource audioSource;
 
-    public void Hover() 
+   public void Hover()
     {
         audioSource.PlayOneShot(soundEffects[0]);
     }
 
-    public void Click()
+    public void Clicked()
     {
         audioSource.PlayOneShot(soundEffects[1]);
     }

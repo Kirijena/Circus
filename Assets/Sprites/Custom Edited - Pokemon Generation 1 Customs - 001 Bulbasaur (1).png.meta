@@ -1,0 +1,1051 @@
+fileFormatVersion: 2
+guid: b7b7e52ef47e1cd47b69b69a4216bd7f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 200
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb5d2a704252de498c6f4fe61538860
+      internalID: -1972793931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 200
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5932163ed099f740991ff51094e86be
+      internalID: 923645260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 200
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2192fd2f2c7f21b479f719fc3fe2b718
+      internalID: -2032809376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 200
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134572a0342b47146be230f19957650b
+      internalID: 1981644873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 200
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15d66ce30a807a4e9b4d73110689427
+      internalID: 626364838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 200
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b3311863aa23a44858f2cbb83bf884
+      internalID: 2011851132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 200
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e153a7130d1c0bc40aca8b71deca5d7d
+      internalID: -54614005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 200
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0966932ca8f2b9e43a41914c0a3d15e5
+      internalID: 266836445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 200
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d21eb54f4e0c8649bcc9f4d6730a86e
+      internalID: 1980732622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 198
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8be66a86660c742a0bf0e2d8a82098
+      internalID: -628645437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c8521c6c77f2d45bf9c0c9cc5ec414
+      internalID: -565513483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 118
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cd6eeec4e30c04cb8f185c76a70507
+      internalID: 717942007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 118
+        width: 257
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1a6aa61d536f14a913143faa2e5cf2
+      internalID: 330588602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 116
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a146308cc6053419ad4e28f59b742f
+      internalID: 2049104060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 118
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26876792edf13d441bebf066a870f9cb
+      internalID: 1370482219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 118
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e3747e90205bc4b83c2e8ae7730697
+      internalID: 1433144425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 118
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0cc54fbc96ac2469d8bd6fed83dbb3
+      internalID: 1252097539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 119
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d9fcaf80d1e5d40a353f10b07cc3a1
+      internalID: -1292024657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 118
+        width: 85
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e0e39d2b9dc98499b8c04436ba239c
+      internalID: -1660208782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_19
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 118
+        width: 84
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aec801f458fdb34f970676182626ef0
+      internalID: -1310804990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 43
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d1a26cfd3176e40b8fcf4035455a5d
+      internalID: -2077073428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 43
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f039ed8d848684ca8029e69ccd8ee1
+      internalID: -1611494077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 43
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950d8857327453f48b0e202e6cf52c32
+      internalID: -181787752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 43
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67388646963f0c4e8302250489e1c9e
+      internalID: 971204151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 44
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f7bb0d3c7cc7944bb50ee8716f8691
+      internalID: 1838337284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 44
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d364906e2839ab46b9a436697b23928
+      internalID: 1394893667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 44
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e42e56843f42074e8b01593cd28abf5
+      internalID: -1592539697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 44
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aac9caed5cf287468caec55e78ee277
+      internalID: -320686084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_28
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 43
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cbe2e5db67eb747a17649e2be5bc4e
+      internalID: -1773531254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_29
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6758cb85f4bbd824f8fb832c157b1502
+      internalID: -833248485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_30
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2
+        width: 163
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06362d0eb1e62d4c9ffec7c6c3e57e0
+      internalID: 1937367565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_31
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cceb6c81fdbab418c79b8a3e020198
+      internalID: 1030175682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e64a9da88f3864ba313ecac2936fa2
+      internalID: -1573436764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552938e95d09b244baecfe274bb3a486
+      internalID: -86677465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_34
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118c2386fbccbc947bd26a1001f2a03c
+      internalID: 1474825721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_35
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac454f6d2ff46d5438ba97bdfe0eeca6
+      internalID: 957894584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_36
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11fc52374e292741afe18b95ae10ee1
+      internalID: -240692011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_37
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29629575e147bc847badf52a4449e704
+      internalID: 1007332851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edbb3ff87f99b345917a7477dd46f75
+      internalID: 1707451165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_39
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892aa9b9a80ec3f40b4d8e0bc8bad378
+      internalID: 304218238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_40
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e570ea96cc4fa943b46f7c32bb4ec27
+      internalID: -1288781370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_41
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddceafc7ac474084790c43dcd2e0256e
+      internalID: 2051803117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c83a89199cdc4724999e176a3e499393
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_0: -1972793931
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_1: 923645260
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_10: -565513483
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_11: 717942007
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_12: 330588602
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_13: 2049104060
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_14: 1370482219
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_15: 1433144425
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_16: 1252097539
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_17: -1292024657
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_18: -1660208782
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_19: -1310804990
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_2: -2032809376
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_20: -2077073428
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_21: -1611494077
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_22: -181787752
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_23: 971204151
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_24: 1838337284
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_25: 1394893667
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_26: -1592539697
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_27: -320686084
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_28: -1773531254
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_29: -833248485
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_3: 1981644873
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_30: 1937367565
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_31: 1030175682
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_32: -1573436764
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_33: -86677465
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_34: 1474825721
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_35: 957894584
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_36: -240692011
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_37: 1007332851
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_38: 1707451165
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_39: 304218238
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_4: 626364838
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_40: -1288781370
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_41: 2051803117
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_5: 2011851132
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_6: -54614005
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_7: 266836445
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_8: 1980732622
+      Custom Edited - Pokemon Generation 1 Customs - 001 Bulbasaur (1)_9: -628645437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

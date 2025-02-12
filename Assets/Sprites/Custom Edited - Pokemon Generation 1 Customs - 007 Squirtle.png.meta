@@ -1,0 +1,1337 @@
+fileFormatVersion: 2
+guid: 145c35eb7bd68094489fcff6e237fccb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 252
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce09e2d4d9738043b6ee8acbdc85bbc
+      internalID: 1419703055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 252
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bfae7c8ef17b4458efcb10badd69dc
+      internalID: 978383049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 252
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6192ddbd35f3aa248ad19d3ce39f081f
+      internalID: 1555790963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 252
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1649d3c74a095b49a4116b9a2ce87f8
+      internalID: 1931952882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 252
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b711d0e83c7904e879cae882202014
+      internalID: 1667626364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 252
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed0a27a3570edc4998d9a41e13ca559
+      internalID: 1161386669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 207
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b374efa79249a4baa95a5eb6afe4ab
+      internalID: -1918610357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 209
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce490f70406cea41bfc297f41162311
+      internalID: -1695993083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 210
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6d228b8bf3a5e4384cd6fb5f05ec71
+      internalID: 1151638861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 209
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccebf92209c98994f8697dbd85e26c65
+      internalID: 1923138927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 210
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc88d6858ceea44684c4feca2d1412e
+      internalID: -1101085257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 210
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652e7632ea930334d80e51c5ffcc3dd5
+      internalID: 823579622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 211
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b358cc0c48ef76743ad31bbc461c7e2a
+      internalID: -535197048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f936156a15f10be499b89fe99fb197bc
+      internalID: -313742562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 164
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc7e78c3a4f21c458b1ca8bb22aed93
+      internalID: -531039077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 163
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffc7e6197b42d449ba2a65e32e6f180
+      internalID: 846429374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 163
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ace2a2d60aa01642a091b1cd94e0f61
+      internalID: 252584257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 163
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752660f7713786149b924b3ed42756ef
+      internalID: 1770908476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 136
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd983f530737b9545aeb03d3b31fbe49
+      internalID: 334298485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 134
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00f751fdea6c7d4ba6bca8d193b1395
+      internalID: -1801009649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_20
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 134
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db04ee998e7005548ad8f1f4adcd2451
+      internalID: -1030581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 134
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7948dfe491528c4c99dcf285e2aafd3
+      internalID: -1937211234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 134
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a48f05946a3bcd4e971fa87f67a836f
+      internalID: -64088896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_23
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 134
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbfa3961f82a584ebafe61a2160f059
+      internalID: -718717578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 134
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399e3e3299626c449845b411193c4ef8
+      internalID: -285440126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 134
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9bfbadcb36095459a1c3911165f5c8
+      internalID: 1355916650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 134
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3994143a54805d7409ba06eee5995982
+      internalID: -1823479668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 91
+        width: 93
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d96b1c1aa0d1f4ca209933e98d590f
+      internalID: 746386391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 91
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fd5200f02e36f48bc230e7045b2059
+      internalID: 1139280287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 91
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8af1c6b6a2bdb4493e40c3046dc58b
+      internalID: 1852958494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 93
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba0f3c276d05d24ba894141946a8046
+      internalID: -95065451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 96
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b984517ae224e74098899922bc61d70
+      internalID: 1487313265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 98
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ec31c380051f44a94d74b134fe2135
+      internalID: -1751734212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_33
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 91
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf139faeda62d564d831a2147ea5018e
+      internalID: 2020777436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 91
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5106f2dcc9016746b9617d939583d72
+      internalID: -268202717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 46
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddef7dd814111934a9f371e5414f4778
+      internalID: 1950151950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_36
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 46
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6987c7b190b8ceb4aae4e2931c282e4c
+      internalID: 13210060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 46
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4f5cc59c20e9c4d84000a7f6d91a10
+      internalID: 1271810332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_38
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 46
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41985ecb57b40d42a4edda329f9ec03
+      internalID: 557727671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_39
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 46
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58350786055bb5548a00b131cab2a793
+      internalID: 500717149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_40
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 46
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8076a484ac25244e9c4b1b5eb819f02
+      internalID: 2088904112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_41
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 46
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206c25a5506b85a4f9eb71f51eaa8002
+      internalID: 991314173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_42
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 46
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9e990f0defbc643bcddef2523f9aa2
+      internalID: 1397852291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cae92f114dbe5478bb81c5f98d1f80
+      internalID: -1857244561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 5
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb5d994b08fb5844863c0c146361143
+      internalID: 209061970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_45
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 4
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ca8f6c82c28b144815537ab85a7690
+      internalID: 1805088341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_46
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 4
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086af9428d2349a4dbdcf1172ca28103
+      internalID: -138921405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b38272561cc2fe4ba78b832b33f414f
+      internalID: -1410517681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_48
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 4
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8095624f2b6791e48bc697b807cf1c85
+      internalID: 887326930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_49
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 3
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eef598bad1552f4499ef104602d6556
+      internalID: -1227243850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_50
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926c65edd93cb794585007ce15df8ea7
+      internalID: 84768728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_51
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76688e8f06533841af3bae3f5fb6a6e
+      internalID: 1382820290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_52
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 4
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b19a34fc53a324187520c0e3b15a0a
+      internalID: -1007210631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_53
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 3
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1868dda0aaaef479af467fb9f35593
+      internalID: -329405305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 4
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f2dc10959d61c49bd308bf7ee95501
+      internalID: -991920212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3971457f0c7a411449077cd8fd70e36b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_0: 1419703055
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_1: 978383049
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_10: -1101085257
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_11: 823579622
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_12: -535197048
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_13: -313742562
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_14: -531039077
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_15: 846429374
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_16: 252584257
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_17: 1770908476
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_18: 334298485
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_19: -1801009649
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_2: 1555790963
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_20: -1030581
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_21: -1937211234
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_22: -64088896
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_23: -718717578
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_24: -285440126
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_25: 1355916650
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_26: -1823479668
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_27: 746386391
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_28: 1139280287
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_29: 1852958494
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_3: 1931952882
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_30: -95065451
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_31: 1487313265
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_32: -1751734212
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_33: 2020777436
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_34: -268202717
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_35: 1950151950
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_36: 13210060
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_37: 1271810332
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_38: 557727671
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_39: 500717149
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_4: 1667626364
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_40: 2088904112
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_41: 991314173
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_42: 1397852291
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_43: -1857244561
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_44: 209061970
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_45: 1805088341
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_46: -138921405
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_47: -1410517681
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_48: 887326930
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_49: -1227243850
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_5: 1161386669
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_50: 84768728
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_51: 1382820290
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_52: -1007210631
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_53: -329405305
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_54: -991920212
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_6: -1918610357
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_7: -1695993083
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_8: 1151638861
+      Custom Edited - Pokemon Generation 1 Customs - 007 Squirtle_9: 1923138927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

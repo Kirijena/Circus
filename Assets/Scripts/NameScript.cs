@@ -1,21 +1,21 @@
-using System;
 using System.Collections;
 using System.Collections.Generic;
-using TMPro;
 using UnityEngine;
-using Random = UnityEngine.Random;
+using TMPro;
 
 public class NameScript : MonoBehaviour
 {
-    TextMeshPro tmp;
+    TextMeshPro tMP;
+
     void Awake()
     {
-        tmp = transform.Find("NameField").gameObject.GetComponent<TMPro.TextMeshPro>();
+        tMP = transform.Find("NameField").gameObject.GetComponent<TextMeshPro>();
     }
 
-    public void SetPlayerName(string name)
+   public void SetPlayerName(string name)
     {
-        tmp.text = name;
-        tmp.color = new Color32((byte)Random.Range(0, 255), (byte)Random.Range(0, 255), (byte)Random.Range(0, 255), 255);
+        tMP.text = name;
+        tMP.color = new Color32((byte)Random.Range(0, 255),
+        (byte)Random.Range(0, 255), (byte)Random.Range(0, 255), 255);
     }
 }

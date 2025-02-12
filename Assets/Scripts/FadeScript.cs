@@ -7,20 +7,21 @@ public class FadeScript : MonoBehaviour
 {
     Image img;
     Color tempColor;
+
     void Start()
     {
-        img = GetComponent<Image>();
+      img = GetComponent<Image>();
         tempColor = img.color;
         tempColor.a = 1f;
         img.color = tempColor;
         StartCoroutine(FadeOut(0.15f));
     }
 
-    public IEnumerator FadeOut(float seconds)
+    IEnumerator FadeOut (float seconds)
     {
-        for(float a = 1f; a >= -0.05f; a -= 0.05f)
+        for (float a = 1f; a>=-0.05f; a -= 0.05f)
         {
-            tempColor = img.color;
+            tempColor = img.color;  
             tempColor.a = a;
             img.color = tempColor;
             yield return new WaitForSeconds(seconds);
@@ -28,20 +29,14 @@ public class FadeScript : MonoBehaviour
         img.raycastTarget = false;
     }
 
-    public IEnumerator FadeIn(float seconds)
-    {
+    public IEnumerator FadeIn(float seconds) {
         img.raycastTarget = true;
-        for (float a = 0f; a <=1.05f; a += 0.05f)
+        for (float a = 0f; a <= 1.05f; a += 0.05f)
         {
             tempColor = img.color;
             tempColor.a = a;
             img.color = tempColor;
             yield return new WaitForSeconds(seconds);
         }
-    }
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

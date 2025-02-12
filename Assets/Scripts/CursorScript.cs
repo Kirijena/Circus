@@ -9,29 +9,26 @@ public class CursorScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        DefaultCursor();
+        DefaultCursor();  
     }
-
-    // Update is called once per frame
 
     public void DefaultCursor()
     {
         Cursor.SetCursor(cursors[0], Vector2.zero, CursorMode.ForceSoftware);
     }
 
-    public void OnButton() 
+   public void OnButton()
     {
-        Cursor.SetCursor(cursors[1], Vector2.zero, CursorMode.ForceSoftware);
+        Cursor.SetCursor(cursors[1], Vector2.zero, CursorMode.ForceSoftware );
     }
 
-    public void ButtonClicked() 
+    public void ButtonClicked()
     {
-        Cursor.SetCursor(cursors[2], Vector2.zero, CursorMode.ForceSoftware);
+        Cursor.SetCursor(cursors[2], Vector2.zero, CursorMode.ForceSoftware );
     }
 
-    public void OnPropCursor() 
+    public void OnPropCursor()
     {
         Cursor.SetCursor(cursors[3], Vector2.zero, CursorMode.ForceSoftware);
     }
-
 }

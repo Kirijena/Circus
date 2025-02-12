@@ -1,0 +1,809 @@
+fileFormatVersion: 2
+guid: 1c6b2a88aaf220d4fba2cb2f580cae3b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 144
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7809f64d4b49684bb067170010e6156
+      internalID: 1339947950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 144
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5298cba35a5d4c45be5375b14ec00ac
+      internalID: -1650406252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 144
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cabfc9f62e06d42b9eced38268a4bc
+      internalID: -808359197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 144
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8fe1f32cfc81a46b978c1d70b87812
+      internalID: -1824120779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 144
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb18df0587a04c8409f0bd5791335648
+      internalID: 1204088790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 144
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4d97504f5a6cd49a71c7e83ebbeae1
+      internalID: 1839103710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 147
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4939d22df2c1a244ea3919347db56015
+      internalID: -2120875558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 101
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075d226d0a8e4ec47aea2a47872fc30b
+      internalID: -1649376525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 101
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baaf37fe331c7d4c91c1ac866cd7ac3
+      internalID: 1466535873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d380c706470dec24c9efe5b4e6fa2c80
+      internalID: -2071471873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 102
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11703d4b20498a249908c36c47683369
+      internalID: -1922810058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 102
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234230009fe64024b944e4885e09375e
+      internalID: 25684409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 102
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463a5a51800551745abcad670f0971f5
+      internalID: 163908933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 104
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10677e9e9ae60e74f88a0186f2454ac5
+      internalID: 1474186544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_14
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 101
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b433dc056a8f3fe40b407388dfd323c1
+      internalID: -1395627300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 51
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e09ee66dcba9c4b8058449a26a2447
+      internalID: -327256840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 51
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477dcd5621887d14f9777b0c99804e29
+      internalID: -826748812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 51
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f03c690687acbe4f9f106b13edf0267
+      internalID: 602074105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_18
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 51
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eac1840942276445aba0e7102b5137c
+      internalID: -12977763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 51
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5e188b4df16d34eb115fd8344d3743
+      internalID: -66498466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 51
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120c6177ba26ad84c86e2ab6402dd1a7
+      internalID: 1276574302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 49
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ab1e162f4fe21479562422dc8dd965
+      internalID: 524339987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 48
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e040d3d3da980a49986eee563261c8c
+      internalID: 954154667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fac0d781dbd1d14c99ed38ba46a7f7e
+      internalID: -1808764115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c98382645ac8c47a47402a79ac34de
+      internalID: -1919308187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1588ad44d8d6b40478e53c2cac133569
+      internalID: 1876360481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_26
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b09af9b328e45a459bd9798714bd41f
+      internalID: 1031877655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006e7e442d6599c4eaf33321d8b51262
+      internalID: 621534137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_28
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecebfb7c33657a54f845648dff106c5c
+      internalID: -203605047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c76d81348f399c4db4a927e09cc20f7
+      internalID: 1566447901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_30
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042161096e8b9804091bb065e8705f74
+      internalID: 2002024296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_0: 1339947950
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_1: -1650406252
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_10: -1922810058
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_11: 25684409
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_12: 163908933
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_13: 1474186544
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_14: -1395627300
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_15: -327256840
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_16: -826748812
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_17: 602074105
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_18: -12977763
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_19: -66498466
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_2: -808359197
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_20: 1276574302
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_21: 524339987
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_22: 954154667
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_23: -1808764115
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_24: -1919308187
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_25: 1876360481
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_26: 1031877655
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_27: 621534137
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_28: -203605047
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_29: 1566447901
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_3: -1824120779
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_30: 2002024296
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_4: 1204088790
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_5: 1839103710
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_6: -2120875558
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_7: -1649376525
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_8: 1466535873
+      Custom Edited - Pokemon Generation 1 Customs - 004 Charmander (1)_9: -2071471873
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
