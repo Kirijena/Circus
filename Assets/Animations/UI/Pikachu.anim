@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Bulbozavor
+  m_Name: Pikachu
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,23 +21,21 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: -1972793931, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
-    - time: 0.11666667
-      value: {fileID: 923645260, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
-    - time: 0.23333333
-      value: {fileID: -2032809376, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
-    - time: 0.35
-      value: {fileID: 1981644873, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
-    - time: 0.46666667
-      value: {fileID: 626364838, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
-    - time: 0.5833333
-      value: {fileID: -54614005, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
-    - time: 0.7
-      value: {fileID: 266836445, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
-    - time: 0.81666666
-      value: {fileID: 1980732622, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
+      value: {fileID: -1387750685, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
+    - time: 0.13333334
+      value: {fileID: 1437037976, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
+    - time: 0.26666668
+      value: {fileID: -1234299860, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
+    - time: 0.4
+      value: {fileID: -731644619, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
+    - time: 0.53333336
+      value: {fileID: 902566808, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
+    - time: 0.6666667
+      value: {fileID: 994142128, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
+    - time: 0.8
+      value: {fileID: 1211291945, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
     - time: 0.93333334
-      value: {fileID: -1972793931, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
+      value: {fileID: -131634897, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
     attribute: m_Sprite
     path: 
     classID: 114
@@ -60,15 +58,14 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: -1972793931, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
-    - {fileID: 923645260, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
-    - {fileID: -2032809376, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
-    - {fileID: 1981644873, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
-    - {fileID: 626364838, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
-    - {fileID: -54614005, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
-    - {fileID: 266836445, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
-    - {fileID: 1980732622, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
-    - {fileID: -1972793931, guid: b7b7e52ef47e1cd47b69b69a4216bd7f, type: 3}
+    - {fileID: -1387750685, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
+    - {fileID: 1437037976, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
+    - {fileID: -1234299860, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
+    - {fileID: -731644619, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
+    - {fileID: 902566808, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
+    - {fileID: 994142128, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
+    - {fileID: 1211291945, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
+    - {fileID: -131634897, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

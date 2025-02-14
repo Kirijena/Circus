@@ -1,0 +1,1536 @@
+fileFormatVersion: 2
+guid: 3277e4001e447a04188b9b787e0a7e7b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 322
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9287f7eff864b3e4f9ac1de6a0a5813f
+      internalID: -1387750685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 322
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5190325196ffc3f4bbaf3ea8fdb928f1
+      internalID: 1437037976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 322
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee9900cef23b5148a987b489b1ba94d
+      internalID: -1234299860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 322
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fc97a4526a1c8458fa21fe5099a141
+      internalID: -731644619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 322
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dd702b190699441a962804a19ae034
+      internalID: 902566808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 322
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f65c68bacce04caed5b4d915b203b
+      internalID: 994142128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 322
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc68272464c9af47917fd84d4c905f3
+      internalID: 1211291945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 322
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527be132bf7ae7f428b05205f3b44ea7
+      internalID: -131634897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 275
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd212f02cf9a16498792700b5a6089d
+      internalID: 1501846291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 273
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014841b9f3ebf254696a5221fc1c93c3
+      internalID: -103356930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 273
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574d58ea8a8f771478ed8a4dfad681d8
+      internalID: 114640821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 273
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2145b42523d153e459043f767e02404f
+      internalID: 1607750126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 273
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff29a284dd1ea5547bbd56c1ff5acef0
+      internalID: 180059538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 273
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8aa8b9436db35142aa4f8d92c2af871
+      internalID: 582316181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 273
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400245c8cac85f942be7be6595637f91
+      internalID: -491761445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 227
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a286a2b9bbe4d6e4d87e057660f929be
+      internalID: 207537710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 232
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c4cf719549b38499aaf20973a388bb
+      internalID: -1533243732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 227
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb15fc4f202fba4786746637d58f4c4
+      internalID: 926642842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 227
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721a125277f76894c81a9de6efff7e9d
+      internalID: 1255180846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 227
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1b7727ec108844e899a9d85a4bff11
+      internalID: -259064223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 226
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d21dffdde077244ad26751e6e3eb57
+      internalID: 1922895802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 226
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2508cadda843b5442b4de59802d6a144
+      internalID: 691942474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_22
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 226
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5133b124c7473047b3dbd748f2887fd
+      internalID: -650217039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a37892716ef7b04b9fbedb6d713e438
+      internalID: 796684677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 131
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81197b77ca98f54cb51c8120ed08c5b
+      internalID: -1894147219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_25
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 130
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1786d8024c922cb46a947671c381f07c
+      internalID: 901365787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 127
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b37741d20e64704d8880b075bcd175c
+      internalID: 94338866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_27
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 141
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ac8eb2de71caf4dac65902ae3bb736
+      internalID: 1946848983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_28
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 144
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6732061fff3630f41bde2e10fa6ffa71
+      internalID: 1825622435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_29
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 147
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be88a3d95d6963d47a20d8c9c7dae085
+      internalID: 656363309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 169
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13112d8d4ed53ba4aae98d2b1b911520
+      internalID: 1744386194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_31
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 165
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ff70292dbd95e40b8220b2134f82a2
+      internalID: 995427691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 165
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fd57f52fc66664689c51ec99f4e144
+      internalID: 1860547312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_33
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 171
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e61f2137bde994fb73841abbe73d36
+      internalID: 1460155634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 140
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f14268cb45750241b5ba0acf16d00bc
+      internalID: -1963194524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_36
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 149
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b567194d553db9b4598f5ee3b25df091
+      internalID: -1484937792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_37
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 160
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d31fcd80c33a245bafa933b9a3ba8e
+      internalID: -276831217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 79
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd3139247cdb0f45bf049ce20321d30
+      internalID: 448730252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_39
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 79
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba8f527129ed8b4eb8f5c0c72a4083d
+      internalID: -354498182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ef07566a530894fbd5354ae0c3a812
+      internalID: -1462992581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_41
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 79
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cdd9b9fc7c93f4e82114839ed31ac7
+      internalID: -80673307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_42
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 79
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7ed37afc670a543aa8ab345244329e
+      internalID: -2132276452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_43
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 79
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbf6d3624697054eaa5825d066883bf
+      internalID: -1287718880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 79
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5196f275d6b0d143abc68f3c1a0a6aa
+      internalID: -4750120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_45
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 79
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83978e07e75842546bb7de930d62812d
+      internalID: -1840341976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_46
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 79
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4addd89adec7de8448c6deb5dbc6daf4
+      internalID: -1175400496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_47
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 79
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b8f5d6792063d4eb16486c2d132ccf
+      internalID: 1525557216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_48
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 79
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d6efd01fec79842b20ccce7e1cf474
+      internalID: 548491533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_49
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 79
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6345b1800a8314e8e2ab19095464c5
+      internalID: 603268531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_50
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 79
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1c54b28a257a049a323b2594001638
+      internalID: -1772663620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_51
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 79
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da04003cafabb942b328864ebf78735
+      internalID: 644601809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50395364ffa642e42a9e69c7ac0d50dd
+      internalID: 92153214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_53
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc0664f7301a4244a594d062e917beb
+      internalID: -860354381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_54
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9674bb9e0b4ac634bb44961c94a8afb5
+      internalID: 822608667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 13
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3bac6e8b4e78842b328f8032f9b7d9
+      internalID: -1639244975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_56
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 31
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a15fccbaa19cca4e89cb2bd7dce6303
+      internalID: 1255637914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_57
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 23
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8785759dd49ee46a6469ff6bd391ba
+      internalID: -1462283329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_58
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 6
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36921e6dd41d7ca4fbf20043b2bb5fcc
+      internalID: -392752014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_59
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 6
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbde31e3eee572140a695501b218e326
+      internalID: 109942713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_60
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 6
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c5c195365f0b24baff86aa146836dc
+      internalID: 231506764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_61
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 6
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8947775d357e244bcc2728680bf045
+      internalID: -1742718079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_62
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 6
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffe3d6fc8e94104ea86b3c8160a3e46
+      internalID: 2143165249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_63
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 6
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de010ba3b59010143b387d7f1aca56ee
+      internalID: -331871644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_64
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 8
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517b08d7606c6cb41ac97fcb26a3f61a
+      internalID: 459178848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ef721786b7a0b3344b57cd7079101b77
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_0: -1387750685
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_1: 1437037976
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_10: 114640821
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_11: 1607750126
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_12: 180059538
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_13: 582316181
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_14: -491761445
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_15: 207537710
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_16: -1533243732
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_17: 926642842
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_18: 1255180846
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_19: -259064223
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_2: -1234299860
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_20: 1922895802
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_21: 691942474
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_22: -650217039
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_23: 796684677
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_24: -1894147219
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_25: 901365787
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_26: 94338866
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_27: 1946848983
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_28: 1825622435
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_29: 656363309
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_3: -731644619
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_30: 1744386194
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_31: 995427691
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_32: 1860547312
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_33: 1460155634
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_34: -203881149
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_35: -1963194524
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_36: -1484937792
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_37: -276831217
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_38: 448730252
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_39: -354498182
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_4: 902566808
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_40: -1462992581
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_41: -80673307
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_42: -2132276452
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_43: -1287718880
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_44: -4750120
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_45: -1840341976
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_46: -1175400496
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_47: 1525557216
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_48: 548491533
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_49: 603268531
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_5: 994142128
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_50: -1772663620
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_51: 644601809
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_52: 92153214
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_53: -860354381
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_54: 822608667
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_55: -1639244975
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_56: 1255637914
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_57: -1462283329
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_58: -392752014
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_59: 109942713
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_6: 1211291945
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_60: 231506764
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_61: -1742718079
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_62: 2143165249
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_63: -331871644
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_64: 459178848
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_7: -131634897
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_8: 1501846291
+      Custom Edited - Pokemon Generation 1 Customs - 025 Cosplay Pikachu_9: -103356930
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
