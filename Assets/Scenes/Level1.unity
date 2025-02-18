@@ -1034,7 +1034,7 @@ Transform:
   m_GameObject: {fileID: 1378932312}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.61, y: 1.02, z: -1.06}
+  m_LocalPosition: {x: -0.978, y: 1.36, z: -0.654}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1416,6 +1416,8 @@ MonoBehaviour:
   playerPrefabs:
   - {fileID: 7581366156733079989, guid: b5a166904d7ea7a4f8228ae1442cecb1, type: 3}
   - {fileID: 900151272745125326, guid: 622517dd9b76405449497f83bb1b2e6d, type: 3}
+  - {fileID: 7581366156733079989, guid: 80473cbfba0afe84ba59bc282f4bd3de, type: 3}
+  - {fileID: 7581366156733079989, guid: a8b2cc354c1d29d488e3107401703770, type: 3}
   spawnPoint: {fileID: 1378932312}
 --- !u!4 &1776262155
 Transform:
@@ -1426,7 +1428,7 @@ Transform:
   m_GameObject: {fileID: 1776262153}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.64, y: 1.58, z: -0.76}
+  m_LocalPosition: {x: -0.77, y: 1.06, z: -0.109}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
