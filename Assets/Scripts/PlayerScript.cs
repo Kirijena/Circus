@@ -32,7 +32,7 @@ public class PlayerScript : MonoBehaviour
         // Настройка сетки для NPC
         int rows = 2; 
         int cols = Mathf.CeilToInt((totalPlayers - 1) / (float)rows); 
-        float spacing = 1f; // Расстояние между NPC
+        float spacing = 2f; // Расстояние между NPC
 
         Vector3 npcStartPosition = spawnPoint.transform.position + new Vector3(-spacing, 0, -spacing);
 
