@@ -1,40 +1,55 @@
 using System.Collections;
 using System.Collections.Generic;
-using System.Runtime.Versioning;
 using UnityEngine;
 using System.IO;
-
 
 public class PlayerScript : MonoBehaviour
 {
     public GameObject[] playerPrefabs;
     int characterIndex;
     public GameObject spawnPoint;
-    int[] otherPlayers;
-    int index;
 
     private const string textFileName = "playerNames";
 
     void Start()
     {
+        int totalPlayers = 4; // 1 игрок + 3 NPC
+        PlayerPrefs.SetInt("PlayerCount", totalPlayers - 1); // NPC = 3
+
+        // Спавн главного игрока
         characterIndex = PlayerPrefs.GetInt("SelectedCharacter", 0);
         GameObject mainCharacter = Instantiate(playerPrefabs[characterIndex], 
             spawnPoint.transform.position, Quaternion.identity);
         mainCharacter.GetComponent<NameScript>().SetPlayerName(
             PlayerPrefs.GetString("PlayerName"));
 
-        otherPlayers = new int[PlayerPrefs.GetInt("PlayerCount")];
         string[] nameArray = ReadLinesFromFile(textFileName);
 
-   
-        for (int i=0; i<otherPlayers.Length-1; i++)
+        // Создаём список доступных персонажей (без главного героя)
+        List<GameObject> availablePrefabs = new List<GameObject>(playerPrefabs);
+        availablePrefabs.RemoveAt(characterIndex); // Удаляем спрайт игрока из списка
+
+        // Настройка сетки для NPC
+        int rows = 2; 
+        int cols = Mathf.CeilToInt((totalPlayers - 1) / (float)rows); 
+        float spacing = 1f; // Расстояние между NPC
+
+        Vector3 npcStartPosition = spawnPoint.transform.position + new Vector3(-spacing, 0, -spacing);
+
+        for (int i = 0; i < totalPlayers - 1; i++)
         {
-            spawnPoint.transform.position += new Vector3(0.2f, 0, 0.08f);
-            index = Random.Range(0, playerPrefabs.Length);
-            GameObject character = Instantiate(playerPrefabs[index],
-               spawnPoint.transform.position, Quaternion.identity);
-            character.GetComponent<NameScript>().SetPlayerName(
-                nameArray[Random.Range(0, nameArray.Length)]);
+            int row = i / cols;
+            int col = i % cols;
+            Vector3 spawnPosition = npcStartPosition + 
+                new Vector3(col * spacing, 0, row * spacing);
+
+            // Выбираем случайного NPC и удаляем его из списка, чтобы не повторялся
+            int randomIndex = Random.Range(0, availablePrefabs.Count);
+            GameObject npcPrefab = availablePrefabs[randomIndex];
+            availablePrefabs.RemoveAt(randomIndex);
+
+            GameObject character = Instantiate(npcPrefab, spawnPosition, Quaternion.identity);
+            character.GetComponent<NameScript>().SetPlayerName(nameArray[Random.Range(0, nameArray.Length)]);
         }
     }
 
@@ -43,10 +58,14 @@ public class PlayerScript : MonoBehaviour
         TextAsset textAsset = Resources.Load<TextAsset>(fileName);
 
         if (textAsset != null)
-            return textAsset.text.Split(new[] { '\r', '\n' },
+        {
+            return textAsset.text.Split(new[] { '\r', '\n' }, 
                 System.StringSplitOptions.RemoveEmptyEntries);
-
+        }
         else
-            Debug.LogError("File not found: "+fileName); return new string[0];
+        {
+            Debug.LogError("File not found: " + fileName);
+            return new string[0];
+        }
     }
 }
