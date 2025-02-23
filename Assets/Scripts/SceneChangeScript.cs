@@ -14,23 +14,49 @@ public class SceneChangeScript : MonoBehaviour
         StartCoroutine(Delay("quit", -1, ""));
     }
 
+    public void Play(int characterIndex, string name)
+    {
+        StartCoroutine(Delay("play", characterIndex, name));
+    }
+
+    public void OpenSettings()
+    {
+        // Запоминаем текущую сцену, чтобы можно было вернуться
+        PlayerPrefs.SetInt("SceneToReturn", SceneManager.GetActiveScene().buildIndex);
+        StartCoroutine(Delay("settings", -1, ""));
+    }
+
+    public void ReturnFromSettings()
+    {
+        // Загружаем сохранённый индекс сцены, если он есть
+        int sceneToReturn = PlayerPrefs.GetInt("SceneToReturn", 0);
+        StartCoroutine(Delay("return", sceneToReturn, ""));
+    }
+
     public IEnumerator Delay(string command, int characterIndex, string name)
     {
-        if(string.Equals(command, "quit", StringComparison.OrdinalIgnoreCase))
-        {
-            yield return fadeScript.FadeIn(0.1f);
-            PlayerPrefs.DeleteAll();
-            if(UnityEditor.EditorApplication.isPlaying)
-                UnityEditor.EditorApplication.isPlaying = false;
+        yield return fadeScript.FadeIn(0.1f);
 
+        if (string.Equals(command, "quit", StringComparison.OrdinalIgnoreCase))
+        {
+            PlayerPrefs.DeleteAll();
+            if (UnityEditor.EditorApplication.isPlaying)
+                UnityEditor.EditorApplication.isPlaying = false;
             else
                 Application.Quit();
-        
-        } else if(string.Equals(command, "play", StringComparison.OrdinalIgnoreCase))
+        }
+        else if (string.Equals(command, "play", StringComparison.OrdinalIgnoreCase))
         {
-            yield return fadeScript.FadeIn(0.1f);
             saveLoadScript.SaveGame(characterIndex, name);
-            SceneManager.LoadScene(1, LoadSceneMode.Single);
+            SceneManager.LoadScene("Level1", LoadSceneMode.Single);
+        }
+        else if (string.Equals(command, "settings", StringComparison.OrdinalIgnoreCase))
+        {
+            SceneManager.LoadScene("Settings", LoadSceneMode.Single);
+        }
+        else if (string.Equals(command, "return", StringComparison.OrdinalIgnoreCase))
+        {
+            SceneManager.LoadScene(characterIndex, LoadSceneMode.Single);
         }
     }
 }
