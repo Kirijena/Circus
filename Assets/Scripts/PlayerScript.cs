@@ -1,7 +1,9 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
+using Random = UnityEngine.Random;
 
 public class PlayerScript : MonoBehaviour
 {
@@ -10,6 +12,14 @@ public class PlayerScript : MonoBehaviour
     public GameObject spawnPoint;
 
     private const string textFileName = "playerNames";
+    private TurnBasedMovement turnBasedMovement;
+
+    private List<GameObject> players = new List<GameObject>();
+
+    private void Awake()
+    {
+        turnBasedMovement = FindObjectOfType<TurnBasedMovement>();
+    }
 
     void Start()
     {
@@ -22,6 +32,8 @@ public class PlayerScript : MonoBehaviour
             spawnPoint.transform.position, Quaternion.identity);
         mainCharacter.GetComponent<NameScript>().SetPlayerName(
             PlayerPrefs.GetString("PlayerName"));
+        
+        players.Add(mainCharacter);
 
         string[] nameArray = ReadLinesFromFile(textFileName);
 
@@ -50,7 +62,12 @@ public class PlayerScript : MonoBehaviour
 
             GameObject character = Instantiate(npcPrefab, spawnPosition, Quaternion.identity);
             character.GetComponent<NameScript>().SetPlayerName(nameArray[Random.Range(0, nameArray.Length)]);
+            
+            players.Add(character);
         }
+        
+        turnBasedMovement.playerObjects = players.ToArray();
+        turnBasedMovement.Initialize();
     }
 
     string[] ReadLinesFromFile(string fileName)

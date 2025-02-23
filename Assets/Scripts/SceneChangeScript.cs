@@ -33,6 +33,16 @@ public class SceneChangeScript : MonoBehaviour
         StartCoroutine(Delay("return", sceneToReturn, ""));
     }
 
+    public void PlayAndLoad()
+    {
+        StartCoroutine(Delay("play", -1, ""));
+    }
+
+    public void ReturnToMain()
+    {
+        StartCoroutine(Delay("main", -1, ""));
+    }
+
     public IEnumerator Delay(string command, int characterIndex, string name)
     {
         yield return fadeScript.FadeIn(0.1f);
@@ -57,6 +67,10 @@ public class SceneChangeScript : MonoBehaviour
         else if (string.Equals(command, "return", StringComparison.OrdinalIgnoreCase))
         {
             SceneManager.LoadScene(characterIndex, LoadSceneMode.Single);
+        }
+        else if (string.Equals(command, "main", StringComparison.OrdinalIgnoreCase))
+        {
+            SceneManager.LoadScene(0, LoadSceneMode.Single);
         }
     }
 }
