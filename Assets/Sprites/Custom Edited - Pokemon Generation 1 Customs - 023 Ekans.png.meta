@@ -1,0 +1,919 @@
+fileFormatVersion: 2
+guid: 604ff3f44c3b61348adfbf2a23d677b6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 184
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d81bdc361489a44931811e61c98550
+      internalID: -1930695692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 184
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857275d53f88e9d4f96a35da5bd84460
+      internalID: 1198413157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 184
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d0886f6dce44643af69c83b5859fe9
+      internalID: -821451916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 184
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfb1b477903686478f978a2b1e92766
+      internalID: -963224136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 184
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b66f3edf366594ebf47ecb3fef5ca7
+      internalID: -1931665047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 184
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0203b4903d3aa294bb96143f3a3d9e59
+      internalID: 2001313119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 184
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea4bc6e2e148e0429566bdd545879af
+      internalID: -23861522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a40b7ad9dbf7d41bc531623ae9e532
+      internalID: -1152221613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 141
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6356b24ddb592e946b9d870790639c65
+      internalID: 854758484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 141
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfae453a459f594d8e5e9d1f7099425
+      internalID: -254933643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 141
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321b7dbc2e0c80f43a9999b766942098
+      internalID: 207102012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 151
+        width: 73
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f163e16024677384fa7728ff69d9604c
+      internalID: -538953188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650afac8bce20ad4480ce770b1032018
+      internalID: -2030955254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 109
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e86c0264fe0b1449a667c6abd74d30
+      internalID: -1206943551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 107
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c27d289cb1e2b4ea77083a7ac510f0
+      internalID: -788436255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 107
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5584aad9b49293b4696462031a610ffd
+      internalID: -730183211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3577a9210c1d34ba94cabecb400314
+      internalID: -682267609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 83
+        width: 73
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03573a6305031854ca0976d83c5c12b1
+      internalID: 440854367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 81
+        width: 71
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a67193be6e7684eade62119a3eb88c
+      internalID: -750629265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 82
+        width: 72
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e733ccf1185112446a4242b4ea23da1f
+      internalID: 804613847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 83
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be442dead8347ea4d8cf5db3dcc6e43b
+      internalID: 1310484678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 71
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd9eea7f21521e42890238b9698e163
+      internalID: 1191008929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 46
+        width: 67
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df02c533e199bb4fb2229e53f123f30
+      internalID: -1998946792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 46
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5b8ff12eb32b0498cd987761892074
+      internalID: 2112667734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 46
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3581cd0ebee8ae541bb488dc3653c785
+      internalID: -1093258598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 46
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9add0b5d37f276840bcb81da04d511ba
+      internalID: -685096378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 46
+        width: 67
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828774305f0c6cc4aaf1a76ddd61da0a
+      internalID: -1147811062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb986d6d23bce04496ba8f72b905ad4
+      internalID: -1207878383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08042feac9fde6346b5d3ca0c33077e5
+      internalID: -391909330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab50a9438f060ea4abfe53f79b04bd32
+      internalID: -2062681631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce6415cd21e51438180fcbbb30239a
+      internalID: -2120488820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4211d5fa9f8162e46a4db04d3ab16013
+      internalID: 1977632384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bf3f7b8087b044f8ca45f44e167f15
+      internalID: -1964404514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_33
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dc8eaae5e31074a9fd5a8911fc1bce
+      internalID: 441618405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9c2f8befdad4f42b2eef72d5b864e7
+      internalID: 1484756113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_35
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf75a1ef84f0234bb0297025f56b431
+      internalID: -177113251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 66d3aabfafacc0e4c8a4557c08ba7674
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_0: -1930695692
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_1: 1198413157
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_10: 207102012
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_11: -538953188
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_12: -2030955254
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_13: -1206943551
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_14: -788436255
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_15: -730183211
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_16: -682267609
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_17: 440854367
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_18: -750629265
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_19: 804613847
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_2: -821451916
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_20: 1310484678
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_21: 1191008929
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_22: -1998946792
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_23: 2112667734
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_24: -1093258598
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_25: -685096378
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_26: -1147811062
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_27: -1207878383
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_28: -391909330
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_29: -2062681631
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_3: -963224136
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_30: -2120488820
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_31: 1977632384
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_32: -1964404514
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_33: 441618405
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_34: 1484756113
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_35: -177113251
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_4: -1931665047
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_5: 2001313119
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_6: -23861522
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_7: -1152221613
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_8: 854758484
+      Custom Edited - Pokemon Generation 1 Customs - 023 Ekans_9: -254933643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -2724,6 +2724,7 @@ MonoBehaviour:
   - {fileID: 1103532324}
   gameOver: 0
   winText: {fileID: 0}
+  smoothTime: 0.6
 --- !u!4 &1531687401
 Transform:
   m_ObjectHideFlags: 0
@@ -3140,12 +3141,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerPrefabs:
-  - {fileID: 7581366156733079989, guid: b5a166904d7ea7a4f8228ae1442cecb1, type: 3}
-  - {fileID: 900151272745125326, guid: 622517dd9b76405449497f83bb1b2e6d, type: 3}
   - {fileID: 7581366156733079989, guid: 80473cbfba0afe84ba59bc282f4bd3de, type: 3}
   - {fileID: 7581366156733079989, guid: a8b2cc354c1d29d488e3107401703770, type: 3}
   - {fileID: 7581366156733079989, guid: ad5f73c218d97d248a055e3baa96937c, type: 3}
   - {fileID: 7581366156733079989, guid: b5631a0d6f09074418d3fc806f563268, type: 3}
+  - {fileID: 7581366156733079989, guid: 205bb4ca8ff54b44c943d404fbe391ea, type: 3}
+  - {fileID: 7581366156733079989, guid: 1512f8c027fb20744bebb29868a53c90, type: 3}
+  - {fileID: 7581366156733079989, guid: 587b4048898e1644aacd0febea6e9d4f, type: 3}
   spawnPoint: {fileID: 1378932312}
 --- !u!4 &1776262155
 Transform:
@@ -3200,6 +3202,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
+  smoothTime: 0.1
 --- !u!1 &1800026663
 GameObject:
   m_ObjectHideFlags: 0

@@ -34,7 +34,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0.27}
+  m_AnchoredPosition: {x: 0, y: 0.23}
   m_SizeDelta: {x: 10, y: 2.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!23 &3576400629606142174
@@ -184,7 +184,7 @@ GameObject:
   - component: {fileID: 7528897223363078162}
   - component: {fileID: 5013626281278676637}
   m_Layer: 0
-  m_Name: Pikachu
+  m_Name: Caterpie
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -199,8 +199,8 @@ Transform:
   m_GameObject: {fileID: 7581366156733079989}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.74, y: 0.97000027, z: 5.1799994}
-  m_LocalScale: {x: 4, y: 4, z: 0.1}
+  m_LocalPosition: {x: 6.8867, y: 1.529, z: -2.8732}
+  m_LocalScale: {x: 4, y: 4, z: 6.13212}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1369992694619344019}
@@ -247,12 +247,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -131634897, guid: 3277e4001e447a04188b9b787e0a7e7b, type: 3}
+  m_Sprite: {fileID: -1790649432, guid: 4bea5862f52c9bb4b8466539c307dd1d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.49, y: 0.44}
+  m_Size: {x: 0.32, y: 0.32}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -280,7 +280,7 @@ Animator:
   m_GameObject: {fileID: 7581366156733079989}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 0f9844e057365204893b4e55ff725ce4, type: 2}
+  m_Controller: {fileID: 9100000, guid: 30fc730120177d04d8981f25afec2323, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

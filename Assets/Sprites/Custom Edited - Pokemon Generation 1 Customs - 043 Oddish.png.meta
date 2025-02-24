@@ -1,0 +1,1205 @@
+fileFormatVersion: 2
+guid: 5984a337c6030e845904d6d1fe410cd8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 229
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589b94aecad5d24468a976a3f3f4fce6
+      internalID: 372204924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 229
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236b6ac5c7d8e6e4394d493f754bf150
+      internalID: -1972226338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 229
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c823a9ddbb6f7248a5e6a9d7468c769
+      internalID: 629827327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 229
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9336e4646464a2498701ca306a4ee25
+      internalID: -1352309552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 229
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287ea1af26015c9438576202dff2586f
+      internalID: 11716898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 229
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16327708bd76e40448fe82101d4bbeb9
+      internalID: -602074205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 229
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0954b2e9bedff78428f068c784ba5d7b
+      internalID: -175900271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 229
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7674a81729677b349aab2958ee9cdcd9
+      internalID: -1225178142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 229
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f828935a6a7ecb498b0d33e91dba431
+      internalID: -658046565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 229
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bdef9dbb4417d4bae3e805d9184e2e
+      internalID: 1665152393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5d967e545454e4bbeb63a9b28aca45
+      internalID: 1855236736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 139
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bb7b4bf3d63a649b75465c6a34acfb
+      internalID: 387237047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 139
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8b840c620deb347b4841cbfa05cb60
+      internalID: -862895940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 139
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedf4bceb55066944a08c27cd5902c3b
+      internalID: 1842471182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 139
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b927f5c4210f04743983e7b0b66dce0c
+      internalID: -526072103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_15
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 141
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f640e4acc63515b43bf79cbd5dcf6e21
+      internalID: 1420696741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 141
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeb92474f72dbf4085494f9108f1b23
+      internalID: -986584823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_17
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 139
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56be91897326f74597ffe5a69db59fc
+      internalID: -178635678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 139
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919c730b01b618849bfe7e3e6aaccfae
+      internalID: -504532370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f39ef24ba5829f43aa4e27e46005508
+      internalID: -1244896907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 93
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891be404abda0b94fb02148fcaf53f22
+      internalID: -401011635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 93
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439c8a68b8af36446970b55c764d2520
+      internalID: 155948310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 93
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca51e3387161cf54ca8533daf4850134
+      internalID: 1154545000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_23
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 93
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e49feaa94c794741933c620fb10de25
+      internalID: -1028757600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_24
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 93
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a2964a6cfeac84180a89b81506fa27
+      internalID: -17740350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_25
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 93
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663998121a419f4e811b7918577e4f9
+      internalID: 1724356481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 99
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926586e1df37fd84495bad0016962821
+      internalID: 445843021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 102
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4c319a75e98e441bd86a0a83aa2fbe
+      internalID: -1168392917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_28
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 97
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87010edb86c774d4fa8910aaa41eabec
+      internalID: -1303632295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b072ee332f1162c41957fe571662bc26
+      internalID: 1874345033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca8fe10212e824459e239ba966455c8
+      internalID: 1179870170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_31
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 47
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea154b143932e44c881d7fa21442bb2
+      internalID: -1772468424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_32
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8338b3ea3746a44ad6ea8a4f420724
+      internalID: 1023669251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_33
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 47
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413a021cfcf19b94a862bbe706682472
+      internalID: 1162712673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_34
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 47
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae5fdee78ed6bd4abd595e5c008c561
+      internalID: -1454731174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_35
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 47
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9e948a31a1baa48b4626e7b3ca87d2
+      internalID: 748334954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 47
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a592d791152658740b032fea48c286c5
+      internalID: 983796207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_37
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 50
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7cfc32ff33a3d49b95fe3a18efd7a3
+      internalID: 1522059422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_38
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 48
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fa7ff9c03924e4ab909aa14f056843
+      internalID: 821999456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f22fec67255774f80ec30fb43144b2
+      internalID: -2026379954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dec3c614825054408f9ec172bdfead0
+      internalID: 752917403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05edb919decfbc4e9ac4e4f96250ed1
+      internalID: 1433317813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e17224199921744b171ccc7a291ff1
+      internalID: 1833831004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_43
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1462e63564ced49b7690b9845605cb
+      internalID: -1947487051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_44
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b526370c04275264a9e62562d601236e
+      internalID: -514192936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_45
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3ae73c7cf977940b4ef1ba109fa235
+      internalID: 1052096433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_46
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312faddce7e4cb347a4fd5862cc6466d
+      internalID: -651513368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d102ee1b738081e4faed3b7980b33c4e
+      internalID: 2037965453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_48
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d353e85b79d5644a8c7ef30e0f961c8
+      internalID: 1394576431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 25258696b3e12b64d9a13f63468fe725
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_0: 372204924
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_1: -1972226338
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_10: 1855236736
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_11: 387237047
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_12: -862895940
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_13: 1842471182
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_14: -526072103
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_15: 1420696741
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_16: -986584823
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_17: -178635678
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_18: -504532370
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_19: -1244896907
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_2: 629827327
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_20: -401011635
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_21: 155948310
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_22: 1154545000
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_23: -1028757600
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_24: -17740350
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_25: 1724356481
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_26: 445843021
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_27: -1168392917
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_28: -1303632295
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_29: 1874345033
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_3: -1352309552
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_30: 1179870170
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_31: -1772468424
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_32: 1023669251
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_33: 1162712673
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_34: -1454731174
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_35: 748334954
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_36: 983796207
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_37: 1522059422
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_38: 821999456
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_39: -2026379954
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_4: 11716898
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_40: 752917403
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_41: 1433317813
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_42: 1833831004
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_43: -1947487051
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_44: -514192936
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_45: 1052096433
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_46: -651513368
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_47: 2037965453
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_48: 1394576431
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_5: -602074205
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_6: -175900271
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_7: -1225178142
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_8: -658046565
+      Custom Edited - Pokemon Generation 1 Customs - 043 Oddish_9: 1665152393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
