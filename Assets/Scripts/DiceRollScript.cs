@@ -69,10 +69,10 @@ public class DiceRollScript : MonoBehaviour
                 }
             }
 
-            // if (!isLanded && Mathf.Abs(rigidbody.velocity.magnitude) < 0.1f && firstThrow)
-            // {
-            //     // Assuming dice has landed when velocity is nearly zero
-            //     isLanded = true;
+             //if (!isLanded && Mathf.Abs(rigidbody.velocity.magnitude) < 0.1f && firstThrow)
+             //{
+                 // Assuming dice has landed when velocity is nearly zero
+              //   isLanded = true;
             // }
         }
     }
