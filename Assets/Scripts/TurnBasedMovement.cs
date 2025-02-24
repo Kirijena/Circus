@@ -23,6 +23,8 @@ public class TurnBasedMovement : MonoBehaviour
     private Vector3[] velocities; // Array to hold velocities for each player
     private bool isMoving = false; // Flag to check if the player is currently moving
 
+    [SerializeField] private GameObject winnerScreen;
+    
     void Awake()
     {
         diceRollScript = FindObjectOfType<DiceRollScript>();
@@ -122,6 +124,7 @@ public class TurnBasedMovement : MonoBehaviour
     void DisplayWinner()
     {
         // Display winner message
-        winText.text = playerObjects[winnerIndex].name + " Wins!";
+        winText.text = playerObjects[winnerIndex].GetComponent<NameScript>().tMP.text + " Wins!";
+        winnerScreen.SetActive(true);
     }
 }

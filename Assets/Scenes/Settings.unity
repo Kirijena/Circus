@@ -2564,7 +2564,7 @@ MonoBehaviour:
   audioMixer: {fileID: 24100000, guid: 180b2a52282a73e41be3ff212578154c, type: 2}
   dropdown: {fileID: 1324332195}
   slider: {fileID: 1648041711}
-  toggle: {fileID: 0}
+  toggle: {fileID: 74667731}
 --- !u!1 &1267672043
 GameObject:
   m_ObjectHideFlags: 0
@@ -3258,9 +3258,9 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
-        - m_Target: {fileID: 1149167744}
-          m_TargetAssemblyTypeName: SettingsMenu, Assembly-CSharp
-          m_MethodName: ReturnButton
+        - m_Target: {fileID: 1149167740}
+          m_TargetAssemblyTypeName: SceneChangeScript, Assembly-CSharp
+          m_MethodName: ReturnFromSettings
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}

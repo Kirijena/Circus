@@ -1,59 +1,72 @@
-using System.Collections;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float moveSpeed = 5f; // Скорость перемещения
-    public float smoothTime = 0.1f; // Время сглаживания
-    private int diceRollResult; // Переменная для хранения числа, выпавшего на кубике
-    private Animator animator; // Добавляем переменную для анимации
+    public float moveSpeed = 5f;
+    public float smoothTime = 0.1f;
+    private int diceRollResult;
+    private Animator animator;
+    private SpriteRenderer spriteRenderer;
 
-    private Vector3 targetPosition; // Целевая позиция для перемещения
-    private Vector3 velocity = Vector3.zero; // Вектор скорости для SmoothDamp
-
+    private Vector3 velocity = Vector3.zero;
+    private Vector3 previousPosition;
+    
     void Start()
     {
-        // Загружаем число, которое было сохранено после броска кубика
-        diceRollResult = PlayerPrefs.GetInt("DiceRollResult", 1); // Если нет сохранения, по умолчанию 1
-
-        // Получаем компонент Animator
+        diceRollResult = PlayerPrefs.GetInt("DiceRollResult", 1);
         animator = GetComponent<Animator>();
-        targetPosition = transform.position; // Изначально персонаж стоит на месте
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        previousPosition = transform.position;
     }
 
     void Update()
     {
         MovePlayer();
+        CheckMovement();
+        FlipSprite();
     }
 
     void MovePlayer()
     {
-        // Получаем движение по осям
-        float moveX = Input.GetAxis("Horizontal") * moveSpeed * diceRollResult * Time.deltaTime;
-        float moveZ = Input.GetAxis("Vertical") * moveSpeed * diceRollResult * Time.deltaTime;
+        float moveX = Input.GetAxisRaw("Horizontal") * moveSpeed * diceRollResult * Time.deltaTime;
+        float moveZ = Input.GetAxisRaw("Vertical") * moveSpeed * diceRollResult * Time.deltaTime;
 
-        // Обновляем целевую позицию
-        targetPosition = transform.position + new Vector3(moveX, 0, moveZ);
+        Vector3 movement = new Vector3(moveX, 0, moveZ);
+        Vector3 targetPosition = transform.position + movement;
 
-        // Плавно перемещаем персонажа к целевой позиции
         transform.position = Vector3.SmoothDamp(transform.position, targetPosition, ref velocity, smoothTime);
+    }
 
-        // Проверяем, достиг ли персонаж целевой позиции
-        if (Vector3.Distance(transform.position, targetPosition) > 0.01f) // Установите порог, чтобы избежать дребезга
+    void FlipSprite()
+    {
+        float movementX = transform.position.x - previousPosition.x;
+
+        if (movementX > 0.01f) 
         {
-            animator.SetBool("isMoving", true); // Включаем анимацию движения
-            animator.SetBool("isStanding", false); // Отключаем анимацию стояния
+            spriteRenderer.flipX = true;
+        }
+        else if (movementX < -0.01f) 
+        {
+            spriteRenderer.flipX = false;
+        }
+
+        previousPosition = transform.position;
+    }
+
+    void CheckMovement()
+    {
+        if ((transform.position - previousPosition).magnitude > 0.001f)
+        {
+            animator.SetBool("isMoving", true);
         }
         else
-        {
-            animator.SetBool("isMoving", false); // Останавливаем анимацию движения
-            animator.SetBool("isStanding", true); // Включаем анимацию стояния
+        { 
+            animator.SetBool("isMoving", false);
         }
     }
 
     public void SetDiceRollResult(int rollResult)
     {
-        // Сохраняем результат броска кубика
         diceRollResult = rollResult;
         PlayerPrefs.SetInt("DiceRollResult", diceRollResult);
     }

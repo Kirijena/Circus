@@ -35,7 +35,7 @@ public class SettingsMenu : MonoBehaviour
     void Start()
     {
         float value;
-        audioMixer.GetFloat("Volume", out value);
+        audioMixer.GetFloat("volume", out value);
         slider.value = value;
 
         toggle.isOn = Screen.fullScreen;
