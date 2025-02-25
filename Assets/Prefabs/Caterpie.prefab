@@ -183,6 +183,7 @@ GameObject:
   - component: {fileID: 5904794622843878190}
   - component: {fileID: 7528897223363078162}
   - component: {fileID: 5013626281278676637}
+  - component: {fileID: 7565077572997595393}
   m_Layer: 0
   m_Name: Caterpie
   m_TagString: Untagged
@@ -247,7 +248,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1790649432, guid: 4bea5862f52c9bb4b8466539c307dd1d, type: 3}
+  m_Sprite: {fileID: 886417391, guid: 4bea5862f52c9bb4b8466539c307dd1d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -270,6 +271,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3864ccc0ff2ea004b87ee8e96acee285, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  tMP: {fileID: 0}
 --- !u!95 &5013626281278676637
 Animator:
   serializedVersion: 5
@@ -280,7 +282,7 @@ Animator:
   m_GameObject: {fileID: 7581366156733079989}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 30fc730120177d04d8981f25afec2323, type: 2}
+  m_Controller: {fileID: 9100000, guid: cbe741a8222be1545bdd58e30574a13e, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -291,3 +293,17 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7565077572997595393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7581366156733079989}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e5c67dc43979874a8afdea7f1ffa274, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 5
+  smoothTime: 0.1
